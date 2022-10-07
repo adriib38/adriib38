@@ -1,11 +1,9 @@
-<h1 align="center">Hola👋, soy Adrián</h1>
+<h1 align="center">Hola👋, soy Adrián Benítez</h1>
 <h3 align="center">Soy estudiante de desarrollo de software❗</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriib38" alt="adriib38" /></a> </p>
 
 - 🌱 Ahora estoy estudiando **PHP y Angular**
 
-- 📱 Puedes descargar EMV en [EcoMapsValència](https://ecomaps-valencia.uptodown.com/android)
+- 📱 Puedes descargar EMV aquí: [EcoMapsValència](https://ecomaps-valencia.uptodown.com/android)
 
 - 👨‍💻 Mi portfolio [adrianbenitez.vercel.app/](adrianbenitez.vercel.app/)
 
