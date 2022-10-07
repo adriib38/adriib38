@@ -1,17 +1,21 @@
 <h1 align="center">Hola👋, soy Adrián Benítez</h1>
 <h3 align="center">Soy estudiante de desarrollo de software❗</h3>
 
+- 👨‍💻 Mi portfolio [https://adrianbenitez.vercel.app/](https://adrianbenitez.vercel.app/)
+
 - 🌱 Ahora estoy estudiando **PHP y Angular**
 
 - 📱 Puedes descargar EMV aquí: [EcoMapsValència](https://ecomaps-valencia.uptodown.com/android)
 
-- 👨‍💻 Mi portfolio [https://adrianbenitez.vercel.app/](https://adrianbenitez.vercel.app/)
-
 - ✍️ A veces escribo en [http://tmul.lol](http://tmul.lol)
 
-<h3 align="left">Contacto:</h3>
-- 📫 Contactame en [adrianbenitezb7@gmail.com](mailto:adrianbenitezb7@gmail.com)
+
+<h3 align="left">Contacta conmigo en:</h3>
+
+  - 📫 adrianbenitezb7@gmail.com
+
 <p align="left">
+<a href="https://linkedin.com/in/adrián-bntz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-bntz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
