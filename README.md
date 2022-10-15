@@ -3,7 +3,7 @@
 
 - 👨‍💻 Mi portfolio [https://adrianbenitez.vercel.app/](https://adrianbenitez.vercel.app/)
 
-- 🌱 Ahora estoy estudiando **PHP y Angular**
+- 🌱 Ahora estoy estudiando **PHP y JavaScript**
 
 - 📱 Puedes descargar EMV aquí: [EcoMapsValència](https://ecomaps-valencia.uptodown.com/android)
 
