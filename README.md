@@ -7,7 +7,6 @@
 
 - 📱 Puedes descargar EMV aquí: [EcoMapsValència](https://ecomaps-valencia.uptodown.com/android)
 
-- ✍️ A veces escribo en [http://tmul.lol](http://tmul.lol)
 
 
 <h3 align="left">Contacta conmigo en:</h3>
