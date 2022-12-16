@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, soy Adrián Benítez</h1>
+<h1 align="center">Hola <img width="35" height="35" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, soy Adrián Benítez</h1>
 <h3 align="center">Estudiante de desarrollo de software❗</h3>
 
 
