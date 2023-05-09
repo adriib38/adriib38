@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de desarrollo de software❗</h3>
 
 
-- 👨‍💻 Mi portfolio [adrianbenitez.vercel.app](https://adrianbenitez.vercel.app/)
+- 👨‍💻 Mi portfolio [adrianbenitez.live](https://adrianbenitez.live)
 
 - 🌱 Ahora estoy estudiando **PHP y JavaScript**
 
