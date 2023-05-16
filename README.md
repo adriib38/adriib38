@@ -4,7 +4,7 @@
 
 - 👨‍💻 Mi portfolio [adrianbenitez.live](https://adrianbenitez.live)
 
-- 🌱 Ahora estoy estudiando **PHP y JavaScript**
+- 🌱 Ahora estoy estudiando **Flutter y JavaScript**
 
 - 📱 Puedes descargar EMV aquí: [EcoMapsValència](https://ecomaps-valencia.uptodown.com/android)
 
